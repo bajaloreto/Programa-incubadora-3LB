@@ -20,9 +20,6 @@ El Plan aun mantiene una estructura dinamica, pero se tiene como definicion base
 * **CAPITULOS: **
   * **Capitulo 1:** Marco de Referencia.
   * **Capitulo 2:** Marco Contextual, en el momento de creacion el Programa. Se explica aqui  las perspectivas de evolución en base a los logros, lecciones y experiencias aprendidas.
-  * **Capitulo 3:** Descripción del Programa Incubadora de Empresas Sociales Sustentables, se realiza la conceptualización del Programa propuesto, el objetivo general y específico, así como los componentes con los que cuenta el Programa para lograr los objetivos trazados. 
-  * **Capitulo 4:** La descripción de las Metodologías seleccionadas \(de adaptación desarrollada\), para la aplicación a la los procesos y etapas del programa de incubación. 
+  * **Capitulo 3:** Descripción del Programa Incubadora de Empresas Sociales Sustentables, se realiza la conceptualización del Programa propuesto, el objetivo general y específico, así como los componentes con los que cuenta el Programa para lograr los objetivos trazados.
+  * **Capitulo 4:** La descripción de las Metodologías seleccionadas \(de adaptación desarrollada\), para la aplicación a la los procesos y etapas del programa de incubación.
   * **Capitulo 5:** Estrategia de Organización y Financiera, aqui se define lo conducente a la operativa financiera, estructura organizacional, funciones, perfiles de los cargos, organigrama, etc.
-
-
-
