@@ -5,7 +5,7 @@
   * [Cap. 1: Marco de Referencia](Plan_estategico/Cap_1/marco_referencia.md)
   * [Cap. 2: Marco Contextual](Plan_estategico/Cap_2/marco_contextual.md)
   * [Cap. 3: Descripcion del Programa](Plan_estategico/Cap_3/descripcion_programa.md)
-  * [Cap. 4: Descripcion de Metodologias](Plan_estategico/Cap_4/descripcion_metodologias.md)
+  * [Cap. 4: Descripcion de Metodologias](Plan_estategico/Cap_4/de_met.md)
   * [Cap. 5: Estrategia Organizacional y Financiera](Plan_estategico/Cap_5/estrat_fin_org.md)
 * [Procedimientos](Procedimientos/README.md)
   * [Manual de Procedimientos](Procedimientos/manual_de_procedimientos.md)
@@ -54,4 +54,3 @@
   * [4 Clientes y Servicios](Exped_Inadem/client_serv.md)
   * [5 Procesos](Exped_Inadem/procesos.md)
   * [6 Viculos](Exped_Inadem/viculos.md)
-
