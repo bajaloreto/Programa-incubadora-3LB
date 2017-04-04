@@ -59,11 +59,11 @@ Basaso en lo anterior, y a nivel económico, consideramos que el futuro inmediat
 
 ##### Creditos
 
-Este repositorio es mantenido y finaciado por [Eco-Alianza de Loreto](http://ecoalianzaloreto.org) y la [Alianza WWF-Fundacion Carlos Slim](http://www.wwf.org.mx/quienes_somos/nuestras_alianzas/alianza_wwf_fundacion_carlos_slim/)
+Copyright - Derechos Reservados © 2016. Este repositorio es mantenido por [Eco-Ventures Loreto](http://ecoventures.strikingly.com) y finaciado por [Eco-Alianza de Loreto](http://ecoalianzaloreto.org) y la [Alianza WWF-Fundacion Carlos Slim](http://www.wwf.org.mx/quienes_somos/nuestras_alianzas/alianza_wwf_fundacion_carlos_slim/)
 
-![Eco-Alianza Loreto](/images/EAL_TOF.jpg) ![Alianza WWF-Fundacion Carlos Slim](/images/EAL_alianza_wwf_fcs_2_444011.png)
+---
 
-##### Licencia
+![Eco-Alianza Loreto](/images/EAL_TOF.png) 
 
-Copyright - Derechos Reservados © 2016 [Eco-Ventures Loreto](http://ecoventures.strikingly.com).
+
 
